@@ -21,7 +21,7 @@ And there is no need to set the p_end to 1000(cause the trigger is absolutely de
 
 # to-do list
 
-- code release √
+- code release: ✅
 - release the pretrain model
 - tidy the code
 - test different model hyperparameters
